@@ -12,7 +12,8 @@ export default  function App() {
   );
 }
 
-const URL='http://localhost:2000/users';
+
+const URL='https://node-password-reset-flow.herokuapp.com/users';
 const context=createContext('')
 function Password()
 {
